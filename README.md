@@ -16,7 +16,7 @@
 
 Everything else is AMSUniBo's: the `apice` option for the APICe BibTeX field,
 the `bologna` and `cesena` options for the seal watermark — none unless asked
-for — and the commands, the faces and the bibliography style. The old styles
+for — and the commands and the bibliography style. The old styles
 always carried the Campus di Cesena seal, so a deck moved from them wants
 `cesena`:
 
@@ -35,10 +35,11 @@ with a different palette, exactly as
 the theme is AMSUniBo's, generated from it with every colour name replaced and
 a handful of assignments changed where a role needed a different shade. The
 options, the commands (`\speaker`, `\ccite`, `\uurl`, `\ddoi`, `\apicepubpar`,
-`\aalert` and their pairs), the workarounds, the Merriweather and Inconsolata
-faces, the references frame and `apalike-AMS.bst` are all AMSUniBo's — see
+`\aalert` and their pairs), the workarounds, the references frame and
+`apalike-AMS.bst` are all AMSUniBo's — see
 [its README](https://github.com/andreaomicini/beamer-AMSUniBo#readme) for all of
-them.
+them. The faces are not: like AMSBolognaFC, this style keeps LaTeX's own
+Computer Modern, as the old one did, rather than AMSUniBo's Merriweather.
 
 The palette is the one thing that is not, and it is a **recovery**.
 `AMSCesenaPurpleAndGold` (2019) defined *Cesena Purple* `#660066`, *Gold
