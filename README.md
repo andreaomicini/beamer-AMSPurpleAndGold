@@ -1,4 +1,4 @@
-# beamer-AMSPurpleAndGold — branch `cesena-1.1`
+# beamer-AMSPurpleAndGold — branch `cesena`
 
 The old **AMSCesenaPurpleAndGold** Beamer style, version 1.1 (April 2020), exactly as it was
 installed in `~/Library/texmf` at the time: the ancestor whose colours `main` recovered. It is not
