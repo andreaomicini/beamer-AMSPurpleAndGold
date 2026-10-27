@@ -1,5 +1,7 @@
 # beamer-AMSPurpleAndGold
 
+![AMSPurpleAndGold Beamer style logo](logo/amspurpleandgold-style-full.svg)
+
 > A simple Beamer-LaTeX style for presentations by Alma Mater Studiorum —
 > Università di Bologna, in the Cesena Purple and the golds of the old
 > AMSCesenaPurpleAndGold style, recovered

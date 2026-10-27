@@ -1,0 +1,1 @@
+A simple Beamer-LaTeX style for Alma Mater Studiorum presentations, in the Purple and Gold of the old AMSCesenaPurpleAndGold style, recovered
