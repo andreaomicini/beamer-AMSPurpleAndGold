@@ -1,5 +1,10 @@
 # AMSPurpleAndGold in HTML
 
+**Retired on 2026-11-01.** New HTML pages of AMSPurpleAndGold decks are made by TeX itself, with the command
+in `beamer-AMSUniBo/html/` (from the deck's root: `bash ../beamer-AMSUniBo/html/html.sh`), the same
+for every style; its `README.md` has the rules. This translator and the notes below are kept for the
+record and for the pages made with it, which stay as they are until their deck changes.
+
 **This translator is AMSPurpleAndGold's own** (since 2026-10-31). It was taken
 from `beamer-AMSUniBo/html/` at `7f73a17` (experiment 5), the version that
 served this style best. The shared translator that followed, one tool for six
